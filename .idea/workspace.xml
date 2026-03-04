@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2f57efba-0287-4cb3-85db-7e2bbeae1be0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/FSD" beforeDir="false" afterPath="$PROJECT_DIR$/FSD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FSD/singer" beforeDir="false" afterPath="$PROJECT_DIR$/FSD/singer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FSD/singer/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/FSD/singer/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FSD/singer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/FSD/singer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FSD/singer/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/FSD/singer/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FSD/singer/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/FSD/singer/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FSD/singer/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/FSD/singer/src/App.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/FSD" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="3AUGvskwjGJLzeBqQ5qG2ZFnF1P" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.MiniBlogApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Rithika MS/Downloads/FSDblog",
+    "settings.editor.selected.configurable": "configurable.group.appearance"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f57efba-0287-4cb3-85db-7e2bbeae1be0" name="Changes" comment="" />
+      <created>1772639970981</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772639970981</updated>
+    </task>
+    <servers />
+  </component>
+</project>
