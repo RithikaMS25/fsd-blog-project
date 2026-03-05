@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f57efba-0287-4cb3-85db-7e2bbeae1be0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/FSD" beforeDir="false" afterPath="$PROJECT_DIR$/FSD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FSD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FSD/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FSD/MiniBlog/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FSD/MiniBlog/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/FSD/singer" beforeDir="false" afterPath="$PROJECT_DIR$/FSD/singer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FSD/singer/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/FSD/singer/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/FSD/singer/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FSD/singer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/FSD/singer/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FSD/singer/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/FSD/singer/public/index.html" afterDir="false" />
